@@ -61,4 +61,4 @@ npm run strat
 
 项目启动成功之后 在浏览器中打开 [http://localhost:4200](http://localhost:4200) 
 
-至此, 完整的环境搭建就完成了, 预祝大家工作愉快 :blush:
+!> 至此, 完整的环境搭建就完成了, Angular更多语法请移步[Angular官网](https://angular.cn/), 预祝大家工作愉快 :blush:

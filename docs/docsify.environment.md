@@ -53,7 +53,10 @@ README.md  -- 这个是我们的首页, 会做为主页内容渲染
 docsify serve
 ```
 
-启动成功之后, 会生成一个localhost网址, 直接拷贝网址在浏览器上打开即可
+启动成功之后, 会生成一个**http://localhost:端口号**的网址, 直接拷贝网址在浏览器上打开即可
+
+!> 至此, 完整的环境搭建就完成了。 具体docsify的配置和用法请参考[docsify官网](https://docsify.js.org)
+
 
 
 
