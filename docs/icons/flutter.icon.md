@@ -28,41 +28,48 @@
 
 # ios桌面图标
 
-| 图片尺寸           | 1x               | 2x            | 2x             |
-|:---------------|:-----------------|:--------------|:---------------|
-| 20 x 20        | 20 x 20          | 40 x 40       | 60 x 60        |
-| 29 x 29        | 29 x 29          | 58 x 58       | 87 x 87        |
-| 40 x 40        | 40 x 40          | 80 x 80       | 120 x 120      |
-| 60 x 60        |                  | 120 x 120     | 180 x 180      |
-| 76 x 76        | 76 x 76          | 152 x 152     |                |
-| 83.5 x 83.5    |                  | 167 x 167     |                |
-| 1024 x 1024    | 1024 x 1024      |               |                |
+| 图片尺寸           | 图片命名                         | 图片描述                | 图片存放目录                   |
+|:---------------|:-----------------------------|:--------------------|:-------------------------|
+| 20 x 20        | Icon-App-20x20@1x.png        | 20 x 20的1x图         | AppIcon.appiconset       |
+| 40 x 40        | Icon-App-20x20@2x.png        | 20 x 20的2x图         | AppIcon.appiconset       |
+| 60 x 60        | Icon-App-20x20@3x.png        | 20 x 20的3x图         | AppIcon.appiconset       |
+| 29 x 29        | Icon-App-29x29@1x.png        | 29 x 29的1x图         | AppIcon.appiconset       |
+| 58 x 58        | Icon-App-29x29@2x.png        | 29 x 29的2x图         | AppIcon.appiconset       |
+| 87 x 87        | Icon-App-29x29@3x.png        | 29 x 29的3x图         | AppIcon.appiconset       |
+| 40 x 40        | Icon-App-40x40@1x.png        | 40 x 40的1x图         | AppIcon.appiconset       |
+| 80 x 80        | Icon-App-40x40@2x.png        | 40 x 40的2x图         | AppIcon.appiconset       |
+| 120 x 120      | Icon-App-40x40@3x.png        | 40 x 40的3x图         | AppIcon.appiconset       |
+| 120 x 120      | Icon-App-60x60@2x.png        | 60 x 60的2x图         | AppIcon.appiconset       |
+| 180 x 180      | Icon-App-60x60@3x.png        | 60 x 60的3x图         | AppIcon.appiconset       |
+| 76 x 76        | Icon-App-76x76@1x.png        | 76 x 76的1x图         | AppIcon.appiconset       |
+| 152 x 152      | Icon-App-76x76@2x.png        | 76 x 76的2x图         | AppIcon.appiconset       |
+| 167 x 167      | Icon-App-83.5x83.5@2x.png    | 83.5 x 83.5的2x图     | AppIcon.appiconset       |
+| 1024 x 1024    | Icon-App-1024x1024@1x.png    | 1024 x 1024的1x图     | AppIcon.appiconset       |
 
 # android桌面图标
 
-| 图片存放目录            | 图片尺寸           |
-|-------------------|----------------|
-| mipmap-mdpi       | 48 x 48        |
-| mipmap-hdpi       | 72 x 72        |
-| mipmap-xhdpi      | 96 x 96        |
-| mipmap-xxhdpi     | 144 x 144      |
-| mipmap-xxxhdpi    | 192 x 192      |
+| 图片尺寸          | 图片命名                  | 图片存放目录                 |
+|:--------------|:----------------------|:-----------------------|
+| 48 x 48       | ic_launcher.png       | mipmap-mdpi            |
+| 72 x 72       | ic_launcher.png       | mipmap-hdpi            |
+| 96 x 96       | ic_launcher.png       | mipmap-xhdpi           |
+| 144 x 144     | ic_launcher.png       | mipmap-xxhdpi          |
+| 192 x 192     | ic_launcher.png       | mipmap-xxxhdpi         |
 
 # ios 启动页图片
 
-| 图片尺寸                |
-|:--------------------|
-| 720 x 1280          |
-| 1080*1920           |
-| 1440 x 2560         |
+| 图片尺寸          | 图片命名                  | 图片存放目录                 |
+|:--------------|:----------------------|:-----------------------|
+| 720 x 1280    | LaunchImage.png       | LaunchImage.imageset   |
+| 1080x 1920    | LaunchImage@2x.png    | LaunchImage.imageset   |
+| 1440 x 2560   | LaunchImage@3x.png    | LaunchImage.imageset   |
 
 # android 启动页图片
 
-| 图片存放目录             | 图片尺寸               |
-|--------------------|--------------------|
-| mipmap-mdpi        | 320 x 480          |
-| mipmap-hdpi        | 480 x 800          |
-| mipmap-xhdpi       | 720 x 1280         |
-| mipmap-xxhdpi      | 1080 x 1920        |
-| mipmap-xxxhdpi     | 1440 x 2560        |
-
+| 图片尺寸          | 图片命名                  | 图片存放目录                 |
+|:--------------|:----------------------|:-----------------------|
+| 320 x 480     | launch_image.png      | mipmap-mdpi            |
+| 480 x 800     | launch_image.png      | mipmap-hdpi            |
+| 720 x 1280    | launch_image.png      | mipmap-xhdpi           |
+| 1080 x 1920   | launch_image.png      | mipmap-xxhdpi          |
+| 1440 x 2560   | launch_image.png      | mipmap-xxxhdpi         |
