@@ -2,7 +2,7 @@
 
 !> 在此之前,先确保本机已经安装了NodeJs
 
-在dos中输入 `node -v` 出现版本号, 则代表已经安装成功。否则请先移步到[NodeJs安装](/docs/angular.environment.md)
+在dos中执行 `node -v` 命令,出现版本号则代表已经安装成功。否则请先移步到[NodeJs安装](/docs/angular.environment.md)
 
 ```shell
 node -v
@@ -10,13 +10,13 @@ node -v
 
 ## 安装docsify-cli
 
-在dos中输入 `npm i docsify-cli -g` 安装安装docsify-cli
+在dos中执行 `npm i docsify-cli -g` 命令来安装docsify-cli
 
 ```shell
 npm i docsify-cli -g
 ```
 
-检查是否安装成功, 在dos中输入 `docsify -v` 出现版本号, 则代表已经安装成功
+检查是否安装成功, 在dos中执行 `docsify -v` 命令,出现版本号则代表已经安装成功
 
 ```shell
 docsify -v
@@ -24,7 +24,7 @@ docsify -v
 
 ## 创建项目
 
-在dos中输入 `docsify init docsify-test` 这里**docsify-test**为项目名称, 由用户自己定义
+在dos中执行 `docsify init docsify-test` 命令来创建项目 这里**docsify-test**为项目名称, 由用户自己定义
 
 ```shell
 docsify init docsify-test
@@ -47,7 +47,7 @@ README.md  -- 这个是我们的首页, 会做为主页内容渲染
 
 ## 启动项目
 
-在当前目录下, dos中输入 `docsify serve` 来启动当前项目
+在当前目录下, 执行 `docsify serve` 命令,来启动当前项目
 
 ```shell
 docsify serve
