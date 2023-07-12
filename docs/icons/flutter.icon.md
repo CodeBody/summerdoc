@@ -3,9 +3,9 @@
 在Flutter开发中,根据手机的像素密度的不同，因此需要提供的图片大小大致可以分为3种类型的图片
 `1x图 2x图 3x图`
 
-![](../assets/images/11689057001_.pic.jpg)  
+![](../../assets/images/11689057001_.pic.jpg)  
 
-![](../assets/images/31689057248_.pic.jpg)  
+![](../../assets/images/31689057248_.pic.jpg)  
 
 ## 手机桌面图标
 ### 在Ios端,需要提供以下几种格式的图片:  
