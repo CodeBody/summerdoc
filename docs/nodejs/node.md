@@ -1,6 +1,6 @@
-## 安装Node
+## 安装NodeJs
 
-打开[NodeJS官网](https://nodejs.org), 安装LTS稳定版本
+打开[NodeJs官网](https://nodejs.org), 安装LTS稳定版本
 
 !> 这里安装的版本号,具体要以公司正在使用的版本为标准来进行安装
 
