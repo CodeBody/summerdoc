@@ -1,6 +1,12 @@
-## 安装Node
+## 安装NodeJs
 
-!> 如果本地没有安装nodeJs 请先移步安装Nodejs[传送门](/docs/nodejs/node.md)
+!> 在此之前,先确保本机已经安装了NodeJs
+
+在dos中执行 `node -v` 命令,出现版本号则代表已经安装成功。否则请先移步到[NodeJs安装](/docs/nodejs/node.md)
+
+```shell
+node -v
+```
 
 ## 安装Angular-cli
 
