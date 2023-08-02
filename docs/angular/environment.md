@@ -1,30 +1,6 @@
 ## 安装Node
 
-打开[NodeJS官网](https://nodejs.org), 安装LTS稳定版本
-
-检查是否安装成功,在dos中执行 `node -v` 命令,出现版本号代表安装成功
-
-```shell
-node -v 
-```
-
-!> 这里安装的版本号,具体要以公司正在使用的版本为标准来进行安装
-
-## 配置Npm
-
-在dos中执行 `npm config set registry https://registry.npm.taobao.org/` 命令来配置网络代理
-
-```shell
-npm config set registry https://registry.npm.taobao.org/
-```
-
-!> 这里使用的是淘宝的官方镜像
-
-检查是否配置成功, 在dos中执行 `npm config get registry` 命令,出现设置的淘宝的地址代表配置成功
-
-```shell
-npm config get registry
-```
+!> 如果本地没有安装nodeJs 请先移步安装Nodejs[传送门](/docs/nodejs/node.md)
 
 ## 安装Angular-cli
 
