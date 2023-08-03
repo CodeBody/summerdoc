@@ -16,6 +16,9 @@
 ** [Http](/docs/nodejs/http.md)
 ** [Path](/docs/nodejs/path.md)
 
+* [TypeScript](/docs/typescript/README.md)
+  ** [环境配置](/docs/typescript/environment.md)
+
 * [Git](/docs/git/README.md)
 ** [Git语法](/docs/git/git.md)
 
